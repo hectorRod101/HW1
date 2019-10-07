@@ -1,3 +1,7 @@
+Name: Hector Rodriguez Reyes
+CWID: 889440152
+Title: HW1
+
 In this assignment, you will create an Android application to display the following table on the screen. 
 
 In the AndroidManifest.xml layout resource file there are two things to do when running the different implementations.
