@@ -1,6 +1,6 @@
-#Name: Hector Rodriguez Reyes
-#CWID: 889440152
-#Title: HW1
+//Name: Hector Rodriguez Reyes
+//CWID: 889440152
+//Title: HW1
 
 In this assignment, you will create an Android application to display the following table on the screen. 
 
